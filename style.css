@@ -1,0 +1,101 @@
+*{
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+}
+body {
+    background-color: #a96851;
+    color: #f2f1e7;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 1px;
+}
+a{
+    color: #f2f1e7;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+}
+/* styling for first page */
+div.first-page{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.main-header{
+    font-weight: 500;
+    margin-top: 24px;
+}
+.notes{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: none;
+    letter-spacing: 1px;
+    width: 70%;
+    height: 50vh;
+}
+.save{
+    font-size: 18px;
+    font-weight: 500;
+    width: 100px;
+    height: 35px;
+    background-color: #f2f1e7;
+    color: #a96851;
+    border-radius: 10px;
+    border: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.save:hover{
+    color: black;
+}
+/* styling for second page */
+div.sceond-page{
+    color: #f2f1e7;
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+}
+
+/* div.front-page {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+    justify-content: center;
+    text-align: center;
+}
+
+div.second-page {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 32px;
+}
+
+.note-area { this is text-area
+width: 50%;
+height: 30vh;
+  padding: 12px;
+  border: 1px solid #f2f1e7;
+  border-radius: 10px;
+  resize: vertical;
+}
+
+.submit {
+    background-color: #f2f1e7;
+    color: #5c4d4d;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: center;
+    width: 20%;
+}
+
+a {
+    color:#f2f1e7;
+    text-decoration: none;
+}
+
+.notes-link {
+    margin-top: 20px;
+    padding-top: 20px;
+} */
